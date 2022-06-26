@@ -9,7 +9,7 @@ export class Navbar extends Component {
     return (
         <nav className="navbar navbar-expand-lg bg-light">
         <div className="container-fluid">
-          <img src={logo} className="rounded float-start" style={{ width: 40, height: 40, margin: 20 }}/>
+          <img src={logo} className="rounded float-start" style={{ width: 40, height: 40, margin: 20 }} alt="logo" />
           <a className="navbar-brand" href="/">NewsNest</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
@@ -22,6 +22,27 @@ export class Navbar extends Component {
               <li className="nav-item">
                 <a className="nav-link" href="/about">About</a>
               </li>
+              {/* <li className="nav-item">
+                <a className="nav-link" href="/business">Business</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/entertainment">Entertainment</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/general">General</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/health">Health</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/science">Science</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/sports">Sports</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/technology">Technology</a>
+              </li> */}
               {/* <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Dropdown
