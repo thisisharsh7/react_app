@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_app/static/css/main.abd64e84.css",
+    "main.js": "/react_app/static/js/main.dbbf445f.js",
+    "static/js/787.c3512d20.chunk.js": "/react_app/static/js/787.c3512d20.chunk.js",
+    "static/media/android-chrome-512x512.png": "/react_app/static/media/android-chrome-512x512.803dc6483a293408b183.png",
+    "index.html": "/react_app/index.html",
+    "main.abd64e84.css.map": "/react_app/static/css/main.abd64e84.css.map",
+    "main.dbbf445f.js.map": "/react_app/static/js/main.dbbf445f.js.map",
+    "787.c3512d20.chunk.js.map": "/react_app/static/js/787.c3512d20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.dbbf445f.js"
+  ]
+}
